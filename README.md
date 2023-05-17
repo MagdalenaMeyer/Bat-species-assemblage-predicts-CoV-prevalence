@@ -1,0 +1,9 @@
+# GhanaBats
+
+Here we deposit the data presented in the upcoming research paper entitled "Bat species assemblage predicts coronavirus prevalence".
+
+We provide two datasets (Meyer&Schmid_GhanaBats_Dataset and Meyer&Schmid_GhanaBats_Dataset_Correlation), which form the backbone of the analysis performed in the associated R Markdown (Meyer&Schmid_GhanaBats_RScript).
+
+Meyer&Schmid_GhanaBats_Dataset contains 26 columns containing the individual information of each of the individual bats as rows:
+
+A. TissueID (a unique identifier for wing punches) B. FaecalID (a unique identifier for faecal samples) C. X229ELogical (binary presence/absence data for CoV 229E infections) D. X229Elike (Ct-values for CoV 229E infected bats) E. X2bLogical (binary presence/absence data for CoV 2b infections) F. X2b (Ct-values for CoV 2b infected bats) G. X2bBasalLogical (binary presence/absence data for CoV 2bBasal infections) H. BetaCLogical (binary presence/absence data for CoV 2c infections) I. Species (taxonomic identity) J. location (three different sampling locations in Ghana) K. site (five different core caves in Ghana) L. sample_month (two months window in which the sample was taken) M. sample_period (two months window in which the sample was taken) N. age (adult versus subadult) O. relative_subadults (relative abundance of subadults in each roosting community at each sampling event) P. SR (species richness) Q. SHA (Shannon species diversity index) R. INVSIMP (Inverse Simpson species diversity index) S. CoV229 (prevalence of CoV 229E) T. CoV2b (prevalence of CoV 2b) U. CoV2bBas (prevalence of CoV 2bBasal) V. CoV2c (prevalence of CoV 2c) W. RelAbundHipAb (relative abundance of Hipposideros abae) X. RelAbundHipB (relative abundance of Hipposideros caffer B) Y. RelAbundHipC (relative abundance of Hipposideros caffer C) Z. RelAbundHipD (relative abundance of Hipposideros caffer D)
