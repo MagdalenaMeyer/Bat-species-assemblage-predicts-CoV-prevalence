@@ -1,4 +1,4 @@
-# GhanaBats
+# Bat species assemblage predicts coronavirus prevalence
 
 Here we deposit the data presented in the upcoming research paper entitled "Bat species assemblage predicts coronavirus prevalence".
 
